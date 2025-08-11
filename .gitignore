@@ -1,0 +1,66 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Environment variables
+*.env
+
+# Logs
+*.log
+logs/
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Cache
+.cache/
+*.pytest_cache/
+
+# Build / Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Streamlit generated files
+.streamlit/
+
+# Generated data files
+*.csv
+*.tsv
+*.json
+*.db
+
+# Vector database files
+chroma/
+faiss_index/
+*.faiss
+
+# Ignore large model files
+*.bin
+*.h5
+*.pt
+*.pkl
+
+
+# Ignore VSCode / PyCharm settings
+.vscode/
+.idea/
