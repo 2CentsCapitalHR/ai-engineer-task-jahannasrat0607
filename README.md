@@ -42,7 +42,7 @@ This project enables users (corporate agents, legal teams, compliance officers) 
 ### Installation
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/adgm-corporate-agent.git
+   git clone https://github.com/2CentsCapitalHR/ai-engineer-task-jahannasrat0607
    cd adgm-corporate-agent
 2. install dependencies
    pip install -r requirements.txt
@@ -79,11 +79,6 @@ Then open your browser at http://localhost:8501
 
 ### Contributing
 Contributions are welcome! Please open issues or submit pull requests for enhancements, bug fixes, or additional document/process support.
-
----
-
-### License
-MIT License
 
 ---
 ### Contact
