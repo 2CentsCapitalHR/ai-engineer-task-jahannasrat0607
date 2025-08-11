@@ -90,15 +90,15 @@ MIT License
 For questions or collaboration, please contact:
 
 Nasrat Jahan
-Email: your.email@example.com
-LinkedIn: https://www.linkedin.com/in/nasrat-jahan-95aa76326/
+Email: nasratjahan166@gmail.com
+LinkedIn: https://www.linkedin.com/in/nasrat-jahan-95aa76326
 
 ---
 
 ### Acknowledgements
-- OpenAI for LLM API
-- FAISS by Facebook AI for vector search
-- LangChain for easy LLM & retriever integrations
-- Python-docx for document manipulation
-- Streamlit for UI framework
+OpenAI for LLM API
+FAISS by Facebook AI for vector search
+LangChain for easy LLM & retriever integrations
+Python-docx for document manipulation
+Streamlit for UI framework
 
